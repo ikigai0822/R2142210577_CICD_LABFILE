@@ -1,0 +1,27 @@
+Oct 06, 2023 9:45:15 AM hudson.remoting.jnlp.Main createEngine
+INFO: Setting up agent: Slave1
+Oct 06, 2023 9:45:15 AM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3077.vd69cf116da_6f
+Oct 06, 2023 9:45:15 AM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using D:\sem 5 devops\CICD\Lab\Experiment 5\slave1\remoting as a remoting work directory
+Oct 06, 2023 9:45:15 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Locating server among [http://localhost:8080/]
+Oct 06, 2023 9:45:15 AM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+INFO: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
+Oct 06, 2023 9:45:15 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Agent discovery successful
+  Agent address: localhost
+  Agent port:    57636
+  Identity:      a9:f8:5e:a9:a2:65:8e:95:dd:13:cf:da:48:ed:38:f3
+Oct 06, 2023 9:45:15 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Handshaking
+Oct 06, 2023 9:45:15 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connecting to localhost:57636
+Oct 06, 2023 9:45:15 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Trying protocol: JNLP4-connect
+Oct 06, 2023 9:45:15 AM org.jenkinsci.remoting.protocol.impl.BIONetworkLayer$Reader run
+INFO: Waiting for ProtocolStack to start.
+Oct 06, 2023 9:45:16 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Remote identity confirmed: a9:f8:5e:a9:a2:65:8e:95:dd:13:cf:da:48:ed:38:f3
+Oct 06, 2023 9:45:16 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connected
